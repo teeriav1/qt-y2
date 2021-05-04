@@ -902,7 +902,7 @@ class Stats():
         return self.upperlist
 
 stats = Stats()
-    print(text)
+print(text)
 def openfile(name):
     
     #This opens file and does handleline-function to all lines except the one with names
