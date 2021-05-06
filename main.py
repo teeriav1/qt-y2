@@ -1,4 +1,4 @@
-from luonnos050521 import *
+from final import *
 import os
 
 def clean():
