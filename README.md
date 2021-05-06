@@ -1,6 +1,7 @@
 Mitä ominaisuuksia olet jo toteuttanut projektiisi?
     Oikeastaan projekti on valmis ja ominaisuudet ovat paikallaan
 Kuinka ohjelma käynnistetään?
+    Ohjelma vaatii pyqt5, jonka voi asentaa käskyllä pip install pyqt5
     Ajamalla main.py
 Mitä sillä voi tässä vaiheessa tehdä?
     Ohjelma lukee tiedoston, auttaa käyttäjää jaottelemaan rivit, näyttää kulutuksen jakautumisen.
@@ -18,6 +19,7 @@ Oletko joutunut tekemään muutoksia suunnitelmaasi?
 
 
 Käyttöohje
+        Asenna pyqt5 käskyllä pip install pyqt5, jos et ole vielä  asentanut
         Aja main.py
         Ohjelma kysyy käsiteltävän tiedoston polun, anna se sille
         Ohjelma kysyy haluatko käyttää kovakoodattua enneltmäärättyjä ryhmiä luokittelussa.
